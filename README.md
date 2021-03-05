@@ -16,7 +16,7 @@ For this challenge, several classification models are used to predict the surviv
 
 
 
-<img src="img/score.PNG" alt="score" style="zoom:50%;">
+<img src="img/score.PNG" alt="score" width="400" height="300">
 
 
 
