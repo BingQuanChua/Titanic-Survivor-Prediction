@@ -21,9 +21,15 @@ The characteristics (features) that allow the Titanic passengers to survive.
 For this challenge, several classification models are used to predict the survival of the passengers. Score is the categorization accuracy evaluated by Kaggle, with 1 being the perfect score. Below shows a list of algorithms that are used with score sorted.
 
 
-
-<img src="img/score.PNG" alt="score" width="400" height="300">
-
+|  Algorithm      | Score |
+| :---            | :---: |
+| Random Forest Classifier          | 0.78468 | 
+| Multi-Layer Perceptron Classifier | 0.78468 |
+| Logistic Regression               | 0.78229 |
+| Support Vector Classifier         | 0.77272 |
+| K-Nearest Neighbors Classifier    | 0.76555 |
+| XGBoost Classifier                | 0.76315 |
+| Decision Tree Classifier          | 0.71770 |
 
 
 The Random Forest Classifier and the MLP Classifier that are build have the highest score.
